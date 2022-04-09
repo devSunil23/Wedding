@@ -1,0 +1,83 @@
+.footer2 {
+  width: 100%;
+  background-color: #282827;
+  color: #fff;
+  margin: auto;
+}
+.footer2Inner {
+  margin: auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  column-gap: 8px;
+  width: 93%;
+  margin: auto;
+  padding: 40px 0;
+}
+.venueName {
+  padding: 10px 0;
+  opacity: 0.7;
+}
+.venues {
+  font-size: 12px;
+  padding: 5px 0;
+}
+.footer2div2 {
+  margin: 20px 0;
+}
+.footer2div1 li a,
+.footer2div2 li a {
+  color: #fff;
+  font-size: 12px;
+  text-decoration: none;
+}
+.footer2div1 li a:hover,
+.footer2div2 li a:hover {
+  text-decoration: underline;
+}
+.footer3 {
+  width: 100%;
+  background-color: #161615;
+}
+.footer3First {
+  width: 90%;
+  margin: 20px auto;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.footer3FirstLeft p {
+  font-size: 13px;
+  padding: 0 5px;
+}
+.footerParaLink a {
+  padding: 0 5px;
+  color: #fff;
+  text-decoration: none;
+  font-size: 13px;
+}
+.footerParaLink a:hover {
+  text-decoration: underline;
+}
+.footer3Wedding {
+  font-size: 29px;
+  padding-left: 170px;
+}
+.footer3span2 {
+  color: #ea4b4b;
+  font-weight: bold;
+}
+.footer3Call {
+  font-size: 12px;
+  opacity: 0.6;
+  padding-left: 180px;
+  margin-top: -8px;
+}
+.footer3ContactUs1 {
+  padding: 0 5px;
+  display: flex;
+  align-items: center;
+}
+.footer3ContactUs1 i {
+  padding: 0 10px;
+}
